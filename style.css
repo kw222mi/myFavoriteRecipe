@@ -1,0 +1,23 @@
+/* HEADER */
+header {
+    background-color: darkgoldenrod;
+    padding: 25px;
+    font-size: 60px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* MAIN */
+
+main {
+    margin: 50px;
+    max-width: 1200px;
+    padding: 10px;
+    
+}
+
+.intro-text {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    font-style: italic;
+   
+}
